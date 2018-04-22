@@ -9,7 +9,6 @@
 # Reference to:
 # [1] Valentyn N Sichkar. Example of creating class MoneyBox in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Classes_in_Python (date of access: XX.XX.XXXX)
 
-
 # Implementing the task
 # Creating class MoneyBox
 # Each instance of class MoneyBox supports only limited amount of money
